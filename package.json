@@ -66,7 +66,6 @@
   "dependencies": {
     "can-use-dom": "^0.1.0",
     "classnames": "^2.2.5",
-    "create-react-class": "^15.5.2",
     "json2mq": "^0.2.0",
     "object-assign": "^4.1.0",
     "slick-carousel": "^1.6.0",
